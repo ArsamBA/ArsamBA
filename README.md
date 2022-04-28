@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArsamBA
+- 👋 Hi, I’m Arsam
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: arsam5ba5@gmail.com
